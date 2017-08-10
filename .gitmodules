@@ -1,0 +1,3 @@
+[submodule "ChildLib"]
+	path = ChildLib
+	url = git@github.com:ptc-wahmed/ChildLib.git
